@@ -1,5 +1,5 @@
 package frc.robot.Subsystems.Name files here;
 
-public class tyran {
+public class tyrna {
 
 }
